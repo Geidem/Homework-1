@@ -1,4 +1,4 @@
-# Homework-1# <Your-Project-Title>
+# Homework-1#
 
 ## Description
 
